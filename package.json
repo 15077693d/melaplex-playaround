@@ -2,9 +2,12 @@
   "dependencies": {
     "@metaplex-foundation/js": "^0.19.4",
     "@metaplex-foundation/mpl-candy-machine": "^6.0.0-alpha.20",
+    "@metaplex-foundation/mpl-token-metadata": "^3.1.0",
     "@metaplex-foundation/umi": "^0.8.9",
     "@metaplex-foundation/umi-bundle-defaults": "^0.8.9",
-    "@solana/web3.js": "^1.78.4",
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/spl-token": "^0.3.8",
+    "@solana/web3.js": "^1.78.5",
     "ts-node": "^10.9.1"
   }
 }
